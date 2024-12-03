@@ -1,4 +1,4 @@
-# Heart Disease Prediction
+# Heart Disease Prediction Model – Achieved 90% accuracy using clustering techniques
 
 ## Table of Contents
 
